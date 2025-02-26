@@ -1,13 +1,12 @@
-# Clearify - Task Management Application 
+# To-Do - Task Management Application 
 
-Clearify is a modern, minimalistic task management app built with **React** and **Vite.js**. It allows users to organize tasks into three categories: To-Do, In Progress, and Done. Features include drag-and-drop functionality, real-time updates, and a responsive design for both desktop and mobile users. Authentication is handled via Firebase.
+To-Do is a modern, minimalistic task management app built with **React** and **Vite.js**. It allows users to organize tasks into three categories: To-Do, In Progress, and Done. Features include drag-and-drop functionality, real-time updates, and a responsive design for both desktop and mobile users. Authentication is handled via Firebase.
 
 
 ## Technologies Used
 
 - **Frontend Framework**: React (with Vite.js)
 - **State Management**: React Context API
-- **Drag-and-Drop Library**: `react-beautiful-dnd`
 - **Styling**: CSS Modules / TailwindCSS
 - **Authentication**: Firebase Authentication
 - **API Communication**: Axios
@@ -30,11 +29,11 @@ Clearify is a modern, minimalistic task management app built with **React** and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zahid-official/practice-15-client
+   git clone https://github.com/GolamRabbaniSajib/to-do-client.git
 
 2. 
    ```bash
-   cd clearify/client
+   cd To-Do
 
 3. 
    ```bash
@@ -46,9 +45,9 @@ Clearify is a modern, minimalistic task management app built with **React** and 
 
 ## Live Links
 
-- **Live View**: [Clearify Live Demo](https://clearify-official.vercel.app)
-- **Github Repo**: [Repository](https://github.com/zahid-official/practice-15-client)
+- **Live View**: [To-Do Live Demo](https://to-do-client-7ej2e4pjz-md-golam-rabbani-sajibs-projects.vercel.app/)
+- **Github Repo**: [Repository](https://github.com/GolamRabbaniSajib/to-do-client)
 
 ## Thank You
 
-Thank you for checking out Clearify! If you have any questions, suggestions, or feedback, feel free to open an issue or reach out to us. Happy task management! 🚀
+Thank you for checking out To-Do! If you have any questions, suggestions, or feedback, feel free to open an issue or reach out to us. Happy task management! 🚀
